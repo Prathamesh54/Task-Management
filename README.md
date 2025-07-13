@@ -1,4 +1,5 @@
 TASK MANAGEMENT APP
+
 A clean and efficient Task Management web app built using React and Redux Toolkit. It allows users to create, manage, and prioritize tasks with an intuitive interface.
 
 FEATURES
